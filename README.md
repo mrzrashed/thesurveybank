@@ -21,5 +21,5 @@ automation system for the survey and automation for generating reports, it makes
 easier and saves our time. There are many web application and tools for completing the 
 survey but there some limitations like generating the reports file and creating survey 
 questions. This system will overcome all the problems and do something new and valuable.</p>
-<h3>1.3. Proposed System Model (Block Diagram)</h3>
-<img src="https://i.ibb.co/MPTxMSq/blockdiagram.jpg" alt="blockdiagram" border="0">
+          <h3>1.3. Proposed System Model (Block Diagram)</h3>
+          <p><img src="https://i.ibb.co/MPTxMSq/blockdiagram.jpg" alt="blockdiagram" border="0"></p>
